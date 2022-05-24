@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0003</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>John Burroughs Memorabilia</titleproper>
+                <author>Wallace, SHelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1884/1966">1884 - 1966</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Burroughs Memorabilia</unittitle>
+            <unitdate normal="1884/1966">1884 - 1966</unitdate>
+            <physdesc>
+                <extent>10"</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <userestrict/>
+        <prefercite/>
+        <scopecontent>
+            <arrangement>
+                <p>This small collection is arranged into three categories:  
+1) John Burroughs as author,  2) works written about John Burroughs, and  3) memorabilia.  Items in this collection give only a periphery view of different aspects of Burroughs life.  Certainly one of the most interesting pieces in the collection is a photo of John Burroughs sitting in his Ford.  The automobile was a gift from Henry Ford, and Burroughs learned to drive it at the age of 75.  
+</p>
+            </arrangement>
+        </scopecontent>
+        <acqinfo>
+            <p>This collection is an assortment of items that were received by Hartwick College along with the library of Miss Ethelwyn Doolittle in 1955.*  Miss Doolittle was a good friend of John Burroughs.  The collection includes a number of Burroughs' published works, as well as articles and poems written about him.  
+Also included are photographs, postcards, memorabilia items from the John Burroughs Memorial Association and the John Burroughs Nature Club, and a replica of the Tablet on the Boyhood Rock. 
+</p>
+        </acqinfo>
+        <bioghist>
+            <p>John Burroughs was born April 3, 1837 in the Catskill Mountains near Roxbury, New York.  His love of nature and his impulse to write made him one of America's great naturalist authors.  His keen sense of the natural "wealth of the universe" - the trees, flowers, animals, and birds, is clearly revealed in his poetry and his life.  He was close friends with such notable men as Henry Ford, Thomas Edison, Harvey Firestone, Walt Whitman, and Ralph Waldo Emerson. 
+	
+Burroughs' homestead, Woodchuck Lodge, and the boyhood Rock, where he is buried, receive thousands of visitors each year.  John Burroughs died on March 29, 1921.  
+</p>
+        </bioghist>
+        <accessrestrict>
+            <p>No access restrictions.</p>
+        </accessrestrict>
+    </archdesc>
+</ead>

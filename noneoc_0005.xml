@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0005</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Gerry Family Papers</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1783/1957">1783 - 1957</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation/>
+            <langusage>Finding aid written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Gerry Family Papers</unittitle>
+            <unitdate normal="1783/1957">1783 - 1957</unitdate>
+            <physdesc>
+                <extent>4 c.f.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <scopecontent>
+            <arrangement>
+                <p>The Gerry Family Papers encompass several generations, and certain series are extremely well documented and rich with historical significance. The searches, land deeds and correspondence are of particular interest to scholars of land development in upstate New York.  The majority of these properties are pieces of the original Hardenburgh Patent granted to Robert Livingston in 1749.  It was the largest single patent ever granted in the American Colonies.  
+
+The memorabilia holds the strongest research value in Cornelia Harriman's diaries of the late 19th and early 20th centuries, and the four volume scrapbooks of Cornelia's son, Elbridge T. Gerry II, which documents not only his impressive achievements as a polo player, but the entire culture of early 20th century polo.
+
+The collection as a whole represents the awesome prestige of well-known and powerful families from the Early American Republic to the mid-twentieth century, and glimpses at their elite culture and society.
+
+The collection has been arranged into the following series:
+
+	I. Land Deeds, Legal Papers, Maps
+
+    II. Lake Delaware
+
+   III. Family Wills
+
+    IV. Memorabilia
+</p>
+            </arrangement>
+        </scopecontent>
+        <acqinfo>
+            <p>The Gerry family generously donated this collection to the Hartwick College archives in November of 1998.
+
+The collection documents the land transactions of substantial tracts in upstate New York which had once been part of the two million acre Hardenburgh Patent.  It also includes wills, diaries, scrapbooks and some photos from the Gerry, Harriman, Livingston and Kane families.
+</p>
+        </acqinfo>
+        <bioghist>
+            <p>The Gerry family traces its heritage back to Elbridge Gerry (1744-1814), revolutionary leader from Marblehead, Massachusetts, signer of the Declaration of Independence and the Articles of Confederation, and Vice-President of the United States under James Madison; and to the Livingston family through the marriage of Louisa M. Livingston to Commodore Elbridge T. Gerry in 1867.  They are also related to E.H. Harriman by the marriage of Cornelia Harriman to Robert Gerry in 1908.  
+
+The Lake Delaware Property, situated in the Towns of Bovina and Delhi in Delaware County, New York, can be traced back to the two million acre Hardenburgh Patent of 1708, Robert Livingston of Clermont owning more than 460,000 acres on the west side of the Hudson.  A portion of this tract came in to the Gerry family in 1891 when Robert J. Livingston died, leaving his real estate in Delaware County to his only daughter, Louisa M. (Livingston) Gerry.  
+
+Commodore Elbridge T. Gerry, one of the founders of the New York Society for the Prevention of Cruelty to Children in 1874, and Louisa M. Gerry had two sons, Peter Goelet and Robert Livingston, and two daughters, Angelica and Francis.  Robert Livingston Gerry married Cornelia Harriman (daughter of railroad tycoon E.H. Harriman) in March 1908, and in 1912 built an estate, known as Aknusti, designed by the Olmstead Brothers, on their 2,000 acre property in Delaware County.  They had four sons - Elbridge T., Robert L., and twins Henry and Edward. The eldest, Elbridge T.(Ebby), born in 1908, held general partnerships in the banking firms Brown Brothers Harriman &amp; Company, and Gerry Brothers &amp; Company, and was a well-known philanthropist, notable polo player, avid participant in harness racing, and breeder of champion horse racers.  In 1932 he married Marjorie Kane, daughter of John P. Kane. They had two sons, Elbridge T. Jr. and Peter G. II, and a daughter Marjorie. Elbridge Gerry died February 26, 1999.  His wife, Marjorie, died just one week later on March 4, 1999. 
+
+</p>
+        </bioghist>
+        <dsc>
+            <c id="c_32c4b72cbf949425804eab91360caf03" level="series">
+                <did>
+                    <unittitle>I. Land Deeds, Legal Papers, Maps.  1783-1957(bulk dates).  1.5 cu.ft.  Topical and Chronological order.  </unittitle>
+                </did>
+            </c>
+            <c id="c_006b58efc1931b2bdd4c406d2b648403" level="series">
+                <did>
+                    <unittitle>II. Lake Delaware.  1881-1945 (bulk dates).  5" Topical order.  </unittitle>
+                </did>
+            </c>
+            <c id="c_8411ccf6b6bbfeee8f46f0de2f34b952" level="series">
+                <did>
+                    <unittitle>III. Family Wills.  1784-1947 (inclusive dates).  4" Alphabetical order.  </unittitle>
+                </did>
+            </c>
+            <c id="c_55b120432045499dd861845db7b2b698" level="series">
+                <did>
+                    <unittitle>IV. Memorabilia.  1893-1950 (bulk dates).  1.5 cubic ft. Topical order.  </unittitle>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

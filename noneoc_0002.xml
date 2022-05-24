@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0002</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Delaware County Folklore Project</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1978">1978</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <langusage>Finding aid written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Delaware County Folklore Project</unittitle>
+            <unitdate normal="1978">1978</unitdate>
+            <physdesc>
+                <extent>Collection includes 62 cassette tapes, some of which have been digitized.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <bioghist>
+            <blockquote/>
+            <p> The project was based at the College's Pine Lake campus with Pine Lake Director Bob Doyle as supervisor.  From January 1978 through March 1979, Margaret Stumpf, Tom Buckner and 30 students interviewed senior citizens throughout the county recording folklore about hunting bobcats and panthers, ice fishing, home and herbal remedies, quilt making, song and dance, old-time recipes, doctors, acid factories, bathtub whiskey, and personal histories.  In addition to the rich stories, the collection also offers excellent examples of local speech patterns. 
+
+	The collection is composed of 62 tapes and accompanying transcripts which are arranged by town and cross-referenced by topic and interviewee.  The entire collection has been annotated and coded by topic for easy retrieval of information.  [See also - "Folklore Research Summary Report," by Bob Doyle - Pine Lake Biennial Report  1977-79 (HC Publications)]
+
+</p>
+        </bioghist>
+        <userestrict>
+            <p>Copyright permissions were not obtained from interviewees.</p>
+        </userestrict>
+        <prefercite>
+            <address>
+                <addressline>Delaware County Folklore Project, Paul F. Cooper, Jr. Archives, Stevens-German Library at Hartwick College</addressline>
+            </address>
+        </prefercite>
+        <acqinfo>
+            <p>Hartwick College received a grant from CETA (Comprehensive Education and Training Act) to to conduct a folklore research project in Delaware County, New York in 1978.</p>
+        </acqinfo>
+    </archdesc>
+</ead>

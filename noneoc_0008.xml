@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0008</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>JAMES M. HANLEY PAPERS ON INDIAN AFFAIRS 1970 - 1980</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1970/1980">1970 - 1980</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James M. Hanley Papers on Indian Affairs 1970-1980</unittitle>
+            <unitdate normal="1970/1980">1970 - 1980</unitdate>
+            <physdesc>
+                <extent>2.5 cubic ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <userestrict>
+            <p>In using correspondence the researcher MUST preserve the identity of the private citizen or government official.  No letter or other correspondence may be photocopied.</p>
+        </userestrict>
+        <prefercite>
+            <p>James M. Hanley Papers on Indian Affairs
+Paul F. Cooper Jr. Archives, Stevens-German Library
+Oneonta, New York
+
+
+</p>
+        </prefercite>
+        <scopecontent>
+            <p>The collection includes letters, newspaper clippings, lawsuits, legislation, meeting notes, periodicals, and reports dealing with such issues as land claims, acculturation, adoption, citizenship, and government relations of the Cayuga, Iroquois Mohawk, Oneida, and Onondaga Indians.
+	A computer printout inventory has been compiled dividing the files into three categories:  letters, newspaper clippings, and miscellaneous items.  Each category is in alphabetical order, both by author and subject.   This inventory is stored with the collection.  
+</p>
+        </scopecontent>
+        <acqinfo>
+            <p>Hartwick College received the James M. Hanley Papers on Indian Affairs in December of 1980.  Hartwick's reference librarian, Mrs. Carolyn Wolf, had been in contact with Congressman Hanley's office on a number of occasions regarding a book she was writing on New York Indian Affairs.  Thus, in 1980, James Hanley chose to donate all his papers on Indian Affairs to Hartwick College.  Mrs. Wolf arranged the material and compiled a computer printout inventory that is divided into three catagories:  letters, newspaper clippings, and miscellaneous items.  Each category is in alphabetical order, both by author and subject. 
+	The collection was transferred to the College Archives in August of 1989. </p>
+        </acqinfo>
+        <bioghist>
+            <p>	James M. Hanley, born in Syracuse, New York in 1920, was a member of the United States House of Representatives from 1965 _ 1985.  During his term he was a member of the Banking, Finance and Urban Affairs Committee; the Post Office and Civil 
+Service Committee; the Small Business Committee, and the ad hoc Committee on Irish Affairs.  Throughout the majority of his twenty years in his office he was active in helping the New York Indian population in land claim settlements with the U.S. government. 
+</p>
+        </bioghist>
+        <accessrestrict>
+            <p>In using correspondence the researcher MUST preserve the identity of the private citizen or government official.  No letter or other correspondence may be photocopied.</p>
+        </accessrestrict>
+    </archdesc>
+</ead>

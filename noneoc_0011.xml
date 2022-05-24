@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0011</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Hartwick Seminary Record Group</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1739/1940">1739/1940</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hartwick Seminary Record Group</unittitle>
+            <unitdate normal="1739/1940">1739 - 1940</unitdate>
+            <physdesc>
+                
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <scopecontent>
+            <p>          The documents in this record group span the years 1739 through 
+1940.  The records were not received in a specific order and many were accessioned at different times.  Thus, they have been arranged to best reflect the organization and history of the seminary.  They are divided into twelve series:
+     
+I. Dudde Collection
+II. H.C. Collection
+III. Day Collection
+IV. Yale Collection
+V. Board of Trustees
+VI. Course Records
+VII. Societies
+VIII. Publications
+ IX. Memorabilia
+ X. Hartwick Academy
+ XI. Photographs, Maps, Graphics
+ XII. Bibliographical Information
+     
+     The first four series contain related letters and land deeds during 
+John Christopher Hartwick's years in America and the establishment of the institution after his death, with the bulk of the material dating between 1796 and 1878.
+          The remaining series document life at the seminary.  Although the records are not always complete they do delineate a clear picture of the struggles and growth of the seminary and the flavor of campus life.
+
+</p>
+        </scopecontent>
+        <acqinfo>
+            <p>          This collection includes the papers of or relating to Rev. John 
+     Christopher Hartwick and the establishment of the Hartwick 
+     Seminary.  The documents reflect the life of John Christopher 
+     Hartwick, his work with the Lutheran Synod, his land dealings, the 
+     problems of executing his will and establishing the Seminary, the 
+     relationship of the Lutheran Synod with the Seminary, the academic 
+     and social life of the Seminary and its eventual division into 
+     Hartwick Academy, Hartwick Seminary and Hartwick College.
+          Hartwick College received many of the records directly from 
+     Hartwick Seminary including a ten volume series compiled by Rev. 
+     John H. Dudde.  There have been numerous accessions from alumni and 
+     friends, including two major collections, one from Mr. &amp; Mrs. Robert 
+     G. Day and the Rev. John Kunze Papers from Yale University.   There 
+     are detailed calendars and some transcriptions of these collections.  
+</p>
+        </acqinfo>
+        <bioghist>
+            <p>John Christopher Hartwick (1714 1796) was born in Molschleben, in the Duchy of Saxe Gotha, Germany and educated at the University of Halle.  He arrived in America in 1746, an ordained Lutheran 
+minister.  He was a very eccentric man with a rigid personality and little tolerance of people's vices.  He frequently required his parishioners to sign a covenant that "they would forswear shooting, horse-racing, boozing, and dancing."  His inability to find a congregation willing to submit to his strict dictates, only confirmed Hartwick's belief that American society needed to be reformed by regulating settlement patterns and enforcing a disciplined code for each community.  To this end he made numerous land deals and eventually was successful in obtaining the majority of a 24,000 acre patent from the Indians in Otsego County, New York.  He died in 1796 without having fulfilled his dream for a "New Jerusalem," but left complete instructions in his will for the organization of a seminary.  However, the executors of his will, Jeremiah 	Van Rensselaer and Frederick A. Muhlenberg had difficulty enacting 
+Hartwick's wishes because he had designated Jesus Christ as his heir.  The executors did manage to get through numerous legal problems and founded Hartwick Seminary, the first Lutheran Seminary in America, in September 1797 but postponed the decision on the final location of the school.  Dr. John Christopher Kunze was named director and taught theology at his home in New York City, Rev. Anthony Braun taught sciences and languages at Albany and Rev. John Frederick Ernst taught elementary school on the Hartwick Patent.  There was great debate about the permanent location of the seminary but due to the persistence of the residents of the Hartwick Patent the first seminary building was established there in 1815 and Rev. Ernest Lewis Hazelius became the first principal.  The seminary offered an academy and a theological department. In 1816 it was incorporated with 12 trustees appointed, the majority of whom were to be Lutheran clergymen.  During the first 20 years the school averaged between 60 and 70 students.  The enrollment dropped nearly in half in the late 1830's and 1840's.   Women were admitted for the first time in 1851 bringing the enrollment to 89 and in the 1880's it was over 100.  In 1888 the Classical Department introduced the Freshman year of a Collegiate Course and in 1927 it expanded to a 4 year college and was moved to Oneonta, New York.  The Theological Department took the name Hartwick Seminary when it moved to Brooklyn, New York in 1930. 
+     The Seminary closed in the spring of 1940 and consolidated with Hartwick College in 1947.  The Academy remained on the original location  until 1934 when classes ceased.
+     
+John Christopher Hartwick (1714 1796) was born in Molschleben, 
+     in the Duchy of Saxe Gotha, Germany and educated at the University 
+     of Halle.  He arrived in America in 1746, an ordained Lutheran 
+     minister.  He was a very eccentric man with a rigid personality and 
+     little tolerance of people's vices.  He frequently required his 	parishioners to sign a covenant that "they would forswear shooting, 	horse-racing, boozing, and dancing."  His inability to find a congregation 	willing to submit to his strict dictates, only confirmed Hartwick's belief 	that American society needed to be reformed by regulating settlement 	patterns and enforcing a disciplined code for each community.  To this end 	he made numerous land deals and eventually was successful in obtaining the 	majority of a 24,000 acre patent from the Indians in Otsego County, New 	York.  He died in 1796 without having fulfilled his dream for a "New 	Jerusalem," but left complete instructions in his will for the 	organization of a seminary.  However, the executors of his will, Jeremiah 	Van Rensselaer and Frederick A. Muhlenberg had difficulty enacting 
+     Hartwick's wishes because he had designated Jesus Christ as his 
+     heir.  The executors did manage to get through numerous legal 
+     problems and founded Hartwick Seminary, the first Lutheran Seminary 
+     in America, in September 1797 but postponed the decision on the 
+     final location of the school.  Dr. John Christopher Kunze was named 	director and taught theology at his home in New York City, Rev. Anthony 	Braun taught sciences and languages at Albany and Rev. John Frederick 
+     
+
+
+INVENTORY   2
+     
+     
+
+	Ernst taught elementary school on the Hartwick Patent.  There was 
+     great debate about the permanent location of the seminary but due to 
+     the persistence of the residents of the Hartwick Patent the first
+     seminary building was established there in 1815 and Rev. Ernest 
+	Lewis Hazelius became the first principal.  The seminary offered an 
+     academy and a theological department.  In 1816 it was incorporated
+	with 12 trustees appointed, the majority of whom were to be Lutheran 
+     clergymen.  During the first 20 years the school averaged between 60 
+     and 70 students.  The enrollment dropped nearly in half in the late 
+     1830's and 1840's.   Women were admitted for the first time in 1851 
+     bringing the enrollment to 89 and in the 1880's it was over 100.  In 
+     1888 the Classical Department introduced the Freshman year of a 
+     Collegiate Course and in 1927 it expanded to a 4 year college 
+	and was moved to Oneonta, New York.  The Theological Department took the 
+     name Hartwick Seminary when it moved to Brooklyn, New York in 1930. 
+     The Seminary closed in the spring of 1940 and consolidated with 
+     Hartwick College in 1947.  The Academy remained on the original 
+     location  until 1934 when classes ceased.
+     
+</p>
+        </bioghist>
+    </archdesc>
+</ead>

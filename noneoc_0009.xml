@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0009</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Mrs. Elstan and Gladys Reid Holton Collection</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1917/1965">1917 - 1965</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Mrs. Elstan and Gladys Reid Holton Collection</unittitle>
+            <unitdate normal="1917">1965</unitdate>
+            <physdesc>
+                <extent>.6 cubic ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <scopecontent>
+            <p>The collection includes postcards, photographs, one small weaving, newspaper clippings and publications ranging from 1917 to 1965. These include publications by the Tonawanda Indian Reservation, papers by William Ritchie of the New York State Museum, and pamphlets and articles on Native American textiles, basketry and
+beadwork.
+</p>
+        </scopecontent>
+        <acqinfo>
+            <p>This collection of publications on Native Americans, including some postcards, photographs and small artifacts belonged to Mrs. Elstan Holton and Gladys Reid Holton. Gladys Holdton was Yager Museum Director Jane des Grange&#x2019;s mother. The collection arrived at the archives via the museum with several boxes of office files in accession number 06.15. The materials were found in Jane des Grange&#x2019;s office in the museum.</p>
+        </acqinfo>
+    </archdesc>
+</ead>

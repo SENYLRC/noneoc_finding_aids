@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0007</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Willard E. Yager Collection</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1874/1929">1874 - 1929</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Willard E. Yager Collection</unittitle>
+            <unitdate normal="1874/1929">1874 - 1929</unitdate>
+            <physdesc>
+                <extent>19 cubic ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <scopecontent>
+            <p>The Willard E. Yager Collection has been arranged into four series:
+		I. Personal and Business Life   1874-1928
+
+	    II. Archaeological Endeavors     c. 1900-1928
+
+	   III. Manuscripts and Publications c. 1900-1929
+
+	    IV. Artifact                     c. 1928
+
+	
+	Throughout the collection there is overwhelming evidence of Mr. Yager's eccentric personality, pensive life-style, and meticulous work habits.
+
+	The first series, reflecting Yager's personal and business life, is weak and by no means tells a clear story.  Nevertheless, it contains some very interesting correspondence to his parents during his college years and to his friends in later years.  There is also a good collection of material on the Oneonta Normal School, including the original draft of the Oneonta Normal School Bill written March 14, 1887.  However, the strength of this first series lies with the travel postcards of the Southwestern United States Indians and Yager's sightseeing maps and journals.  The latter often indicate exact travel routes and detail Yager's observations.  
+
+	The large collection of personal notes, which are found in the second series, are very tedious and frequently so brief as to be unintelligible.  In addition, Yager's handwriting is small and difficult to decipher.  Once again, however, the notes and their organization reflect his meticulous research habits. 
+
+	Willard Yager was a prolific writer and published three books:  Medicine in the Forest, 1911; The Red Man as Soldier, 1912; and Non-Combatants, 1927.  The Manuscripts and Publications series reflects his work on these publications as well as what appears to be his ultimate goal in writing a book to have been entitled, "The Forest in War Time."  The manuscript for this work is outlined as follows: 
+				    Introduction:  The Forest in Peace
+				    Book One:   Of Preparedness
+			         Book Two:   Custom of War
+				    Book Three: How a War Was Fought
+
+A more detailed outline is included with the box inventories.  Non-combatants and The Red Man as Soldier are sections of this lengthy manuscript.
+
+
+
+	Douglas Earl Bailey edited some of Yager's hand-written manuscripts and published them in 1961 as The Oneota.  Orite - A Journal of Johannes Van Dyck  1634-35* was also published after Yager's death.   However, the majority of both the hand-written and typed manuscripts that comprise "The Forest in War Time" are unpublished.  
+	
+	Although the Yager Collection is not an easy collection to work with, it has its gems and can be extremely rewarding as it reveals the depths of this extraordinary man.
+</p>
+        </scopecontent>
+        <acqinfo>
+            <p>The Willard E. Yager manuscript collection is part of a larger collection of Indian lore that Hartwick College received in 1929 following Willard Yager's death.  The Indian relics collection is housed in the College Museum.</p>
+        </acqinfo>
+        <bioghist>
+            <p>
+	The archival collection reflects the life of Willard E. Yager, the quality of his historical research, and his exhaustive study of the American Indian. Through family histories, correspondence, sightseeing maps, journals, travel postcards, personal notes and unpublished hand-written and typed manuscripts, one can discover the exacting methodology of a man who became an authority on the Indian way of life.
+
+Willard E. Yager, son of David J. and Emogene (Shepherd) Yager, was born in Oneonta, New York on December 19, 1855.  He attended Cornell University, Phillips-Exeter Academy and Harvard Law School, before returning to Oneonta.  Yager was an active community leader. In 1882 he collaborated with George W. Fairchild in the publication of the ONEONTA HERALD and in the late 1800s he was influential in the foundation of the Oneonta Normal School.  In 1890, he gave up his association with the HEARLD to devote himself to his long time interest in American archaeology.  He traveled extensively, taking copious notes on Indian life and collecting Indian relics.  The relics he housed in "The Long House"  -  a fire-proof structure adjoining his home at 19 Ford Avenue.  Before his death on March 4, 1929, he had published three books:  Medicine in the Forest, 1911;  The Red Man as Soldier, 1912; and Non-Combatants, 1927.</p>
+        </bioghist>
+        <dsc>
+            <c id="c_9ff6f9372480e4f49ad41aa2210846cc" level="series">
+                <did>
+                    <unittitle>I. Personal and Business Life   1874-1928</unittitle>
+                </did>
+            </c>
+            <c id="c_f70885ac9941016e397c8e424c9fb9dd" level="series">
+                <did>
+                    <unittitle>II. Archaeological Endeavors     c. 1900-1928</unittitle>
+                </did>
+            </c>
+            <c id="c_d910e7e3cf13e961e2873744e88832f7" level="series">
+                <did>
+                    <unittitle>III. Manuscripts and Publications c. 1900-1929</unittitle>
+                </did>
+            </c>
+            <c id="c_bebf79a137a183097057d58be010515b" level="series">
+                <did>
+                    <unittitle>IV. Artifact                     c. 1928</unittitle>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

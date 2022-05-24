@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0004</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>The Gerry Family Papers</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1783/1957">1783 - 1957</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <langusage>Finding aid written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Telfer Family Papers</unittitle>
+            <unitdate normal="1834/1983">1834 - 1983</unitdate>
+            <physdesc>
+                <extent>1 c.f.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <scopecontent>
+            <arrangement>
+                <p>
+The eclectic items from the Telfer family is most extensive in its collection of over one hundred postcards, which supplement the New York Regional postcard collection also held in the archives. Although there are only a dozen letters of correspondence, some of them make reference to farming both in America and in Scotland.  Grace (Michaels) Telfer's eccentric scrapbook depicts the turn-of-the century culture in art and advertising. 
+</p>
+            </arrangement>
+        </scopecontent>
+        <acqinfo>
+            <p>This relatively small collection of assorted items was given to Hartwick College by Dr. Elizabeth (Betty) Lamphere ('38), a friend of the Telfer family. The archival collection includes correspondence to William Telfer and James Telfer, assorted postcards, photographs and memorabilia.</p>
+        </acqinfo>
+        <bioghist>
+            <p>William Telfer, a farmer, immigrated to the United States from Scotland in 1838 and settled in the Town of Burlington, NY, County of Otsego.
+	
+James Telfer, son of Samuel and Isabel (Lunn) Telfer, along with wife Grace (Michaels) settled and became a prominent family in Hartwick, NY, County of Otsego.  James and Grace had one daughter, Mary.  
+	
+Mary Telfer, a 1934 Hartwick College graduate, taught elementary school in the Town of Hartwick, NY. The Telfer family befriended Steffie Baker, MD, a woman of German descent who spent 6 years practicing medicine in Bolivia before settling in Hartwick, NY as the only general physician. [A collection of souvenir items from Steffie Baker's 6 year practice in Bolivia was donated to the Hartwick College Yager Museum in the Fall of 1999.  See tickler file in Archives - "Baker, Steffi."]
+</p>
+        </bioghist>
+    </archdesc>
+</ead>

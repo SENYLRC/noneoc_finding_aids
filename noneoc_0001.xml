@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0001</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Christoph Family Papers</titleproper>
+                <author>Christoph Family</author>
+            </titlestmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Christoph Family Papers</unittitle>
+            <unitdate normal="1878/1967">1878 - 1967</unitdate>
+            <langmaterial>
+                <language langcode="ger">German</language>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <physdesc>
+                <dimensions>1 cf.</dimensions>
+            </physdesc>
+            <repository>Paul F. Cooper, Jr. Archives, Hartwick College</repository>
+        </did>
+        <scopecontent>
+            <arrangement>
+                <p>Peter Christoph and his wife Florence, both of whom are Hartwick College Alumni and who now reside in Selkirk, New York, donated this collection to the archives in the fall of 2006.  The Christophs were married in the city of Oneonta by the Reverend Louis Van Ess, who was a history professor at the college while they were students at Hartwick College. The finding aid below is based on the family history written by Peter and Florence Christoph, who also arranged the collection. </p>
+            </arrangement>
+        </scopecontent>
+        <acqinfo>
+            <p>Peter Christoph and his wife Florence, both of whom are Hartwick College Alumni and who now reside in Selkirk, New York, donated this collection to the archives in the fall of 2006.  The Christophs were married in the city of Oneonta by the Reverend Louis Van Ess, who was a history professor at the college while they were students at Hartwick College. The finding aid below is based on the family history written by Peter and Florence Christoph, who also arranged the collection. </p>
+        </acqinfo>
+        <bioghist>
+            <p>The Christoph family papers provide extensive documentation of the impact of the historical events of the twentieth century on one ordinary German family. The family&#x2019;s papers are in German, and are accompanied by extensive genealogical and family history research in English by descendants Peter and Florence Christoph. The collection includes papers, letters, postcards, memoirs, and photographs. The people documented in the collection include Richard Hoppach and his wife Ida Kelsch Hoppach, who were married in 1884. Ida Kelsch Hoppach&#x2019;s father Rudolph was a master shoemaker, and Richard Hoppach&#x2019;s father Edward was a master basket maker who provided baskets to the royal court. Both branches of the family were headed by prosperous, successful artisans. 
+Richard Hoppach died in 1890, leaving Ida alone supporting their only child, Erna, by running a home furnishing shop in Berlin. Erna married Gustav Christoph in 1901 at the age of 16. Ida Kelsch Hoppach continued to live with her married daughter, and helped to care for the couple&#x2019;s two children, Hajo and Ruth. Gustav, who was a salesman, helped to make Ida&#x2019;s home furnishing business a great success, and the family prospered. In 1907, they moved from Berlin to an apartment in the same building that housed Ida&#x2019;s sisters Grete and Kathe, in the wealthy suburb of Schmargendorf. Though he was forty-two when the First World War broke out seven years later, Gustav was drafted. He was wounded in France but survived to do a second tour of duty doing office work in Rumania. During the War, the government seized all foreign stock and bonds, which had constituted the bulk of Gustav&#x2019;s wealth. The family was left almost penniless. After the war, they moved back to downtown Berlin, where Gustav opened a book store. 
+Erna died in 1921, partly as a result of malnutrition during the First World War. Both Ruth and Hajo also suffered from malnutrition and hunger during the War, Hajo was in a sanitarium for a time in 1919, and Ruth contracted tuberculosis and was sent to a sanitarium in Switzerland in 1926. In 1931, Ruth married Walter Flemming, a German soldier killed on the Eastern Front in 1944. Hajo left Germany for the United States in 1925, where he married Matilda Haage. Gustav and Ida were forced to flee war torn Berlin for Gustav&#x2019;s family home in Czechoslovakia, a village called Steinschonau, which had been part of the Austro-German empire. After the war, German nationals were forced to leave Czechoslovakia. Ida returned to Berlin, forced to make a harrowing journey of over a hundred miles on foot, begging for food along the way, at the age of 82. Gustav was prevented from accompanying her and he died in an internment camp in Czechoslovakia for displaced persons in 1945, at the age of 73.  
+At the end of the war, Ruth was living in Worms, but she was unable to afford to keep her apartment there and after reuniting with her grandmother, the two of them moved to a two room apartment in a nearby village called Wachenheim. There, they lived in severely straightened circumstances on small pensions. Ruth&#x2019;s brother Hajo sent packages of food from the United States to help supplement their meager diet. Ida died in 1958. Ruth later married Walter Willi, a veteran of World War II and retired master gardener. She outlived her second husband, who died in 1977.  
+</p>
+        </bioghist>
+        <dsc>
+            <c id="c_b5bd20331b6537b53292121b2666fdd8" level="series">
+                <did>
+                    <unittitle>I.	Letters from Walter Flemming to Ruth Flemming, 1929-1944 (Includes Volumes 1-5, as arranged by Peter and Florence Christoph) </unittitle>
+                </did>
+            </c>
+            <c id="c_13af9cae4565080833f47865b0737b07" level="series">
+                <did>
+                    <unittitle>II.	Letters from Ruth Flemming to Walter Flemming, 1929-1930.</unittitle>
+                </did>
+            </c>
+            <c id="c_8f0f1863482203794e22d1d113086171" level="series">
+                <did>
+                    <unittitle>III.	Postcards from Walter to Ruth </unittitle>
+                </did>
+            </c>
+            <c id="c_d8f1b0cf50719d8506f3f0065e46ee24" level="series">
+                <did>
+                    <unittitle>IV.	Family Papers and Documents (1870-1967). (Includes an inventory by Peter and Florence Christoph, with dates and information related to particular documents)</unittitle>
+                </did>
+            </c>
+            <c id="c_c03e58cefaf490de5af254f56753e4e9" level="series">
+                <did>
+                    <unittitle>V.	Photographs (Flemming Family Photographs, 1931-1961 and Walter Flemming&#x2019;s Photographs of Military Colleagues, 1940&#x2019;s)</unittitle>
+                </did>
+            </c>
+            <c id="c_6e2c727edb2e7f0bc7313c0a8a9810fc" level="series">
+                <did>
+                    <unittitle>VI.	Walter Flemming Tagebuchs (1924 and 1934-1938)</unittitle>
+                </did>
+            </c>
+            <c id="c_e158d67e21078bf7fd80453ef403b6b5" level="series">
+                <did>
+                    <unittitle>VII.	Family Confirmation Cards and other documents (1919-1947)</unittitle>
+                </did>
+            </c>
+            <c id="c_2553d49d059c1e8e2c8ab8a5d82e2462" level="series">
+                <did>
+                    <unittitle>VIII.	Ruth Flemming&#x2019;s Music Notebook with compositions (1944-1947) </unittitle>
+                </did>
+            </c>
+            <c id="c_aec22a1350bf182deb735add6a10e17a" level="series">
+                <did>
+                    <unittitle>IX.	Family History by Peter and Florence Christph and a memoir written by Hajo Christoph.</unittitle>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

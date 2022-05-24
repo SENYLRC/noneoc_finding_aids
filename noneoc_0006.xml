@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0006</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>United Lutheran Church in America Collection</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1849/1970">1849 - 1970</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>United Lutheran Church in America Collection</unittitle>
+            <unitdate normal="1849/1970">1849 - 1970</unitdate>
+            <physdesc>
+                <extent>2 cubic ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <scopecontent>
+            <p>The collection includes Synod constitutions, proceedings, convention minutes, and yearbooks.  Notable items in the collection include - the Franckean Constitution of 1849; the March 1927 New York Synod proceedings approving the establishment of Hartwick College in Oneonta, New York; and the minutes of the 1969 New York Synod Convention reporting on Hartwick College's disaffiliation with the Lutheran Church.  This collection has been divided into the following twelve series:</p>
+        </scopecontent>
+        <acqinfo>
+            <p>This is an artificial collection of the numerous minute books, proceedings and journals of the United Lutheran Church that were found in the College Archives.  The donors are unknown.</p>
+        </acqinfo>
+        <bioghist>
+            <p>Jacobus Fabritius organized the first Lutheran congregation in New York in 1669.  For the next thirty-five years Lutheran parishes in America struggled to maintain their cohesion due to the very small number of ministers that were sent from Europe.  However, by 1800, Lutheranism had become the third leading religion in the United States, with over 600,000 practitioners, and the most popular among immigrants from Dutch and German-speaking countries.  
+
+	The New York Synod - or New York Ministerium - began inauspiciously in 1786 with only three pastors, but by 1828 had grown to 26 pastors representing 29 congregations.  As the Synod grew, communications became difficult with its constituency west of Albany.  In 1826, a Western Conference of the Ministerium was formed, and four years later separated from the New York Synod and established themselves as the Hartwick Synod.  A schism occurred in the Hartwick Synod as well, when in 1837 four pastors, citing opposition to the Synod's position on temperance, slavery, revivals and confessional questions, formed the Franckean Synod, named for August Hermann Francke, the noted eighteenth century leader of German Pietism.
+
+	The New York, Hartwick, and Franckean Synods all guided the development of Hartwick Seminary throughout the 19th and early 20th centuries.  The New York Synod supported the expansion of  Hartwick Seminary to a College in 1927, and continued to assist with the College's growth and development until 1968 when the College became a nondenominational liberal arts college.
+</p>
+        </bioghist>
+        <accessrestrict>
+            
+        </accessrestrict>
+        <dsc>
+            <c id="c_1f457d6f1a08eed686b7d25fea7faa1d" level="series">
+                <did>
+                    <unittitle>I. Franckean Evangelic Lutheran Synod   1849-1908</unittitle>
+                </did>
+            </c>
+            <c id="c_5448bef5324151e1c9837d8c45b55088" level="series">
+                <did>
+                    <unittitle>    II.  Hartwick Synod   1853-1869, 1905</unittitle>
+                </did>
+            </c>
+            <c id="c_071e27f779dfd9401d5724b6500f993f" level="series">
+                <did>
+                    <unittitle>III.  United Lutheran Church in America  1918-1978</unittitle>
+                </did>
+            </c>
+            <c id="c_000ff2eae58026200c73cd7510e5aab9" level="series">
+                <did>
+                    <unittitle>IV.  Evangelical Lutheran Church  1867</unittitle>
+                </did>
+            </c>
+            <c id="c_e64540aa32ac3b0ddd939ee1c2266d7a" level="series">
+                <did>
+                    <unittitle>V.  United Lutheran Synod at New York  1929-1952</unittitle>
+                </did>
+            </c>
+            <c id="c_1058103ecf4820710196e75b388d2b23" level="series">
+                <did>
+                    <unittitle>    VI.  New York Synod  1962-1966</unittitle>
+                </did>
+            </c>
+            <c id="c_264259e3d8eb0fa971f0814234bb9b37" level="series">
+                <did>
+                    <unittitle>   VII.  Upper New York Synod  1967 &amp; 1969</unittitle>
+                </did>
+            </c>
+            <c id="c_1a0d90371c3cf7accab1943ec15bb016" level="series">
+                <did>
+                    <unittitle>VIII.  Metropolitan New York Synod  1967-68</unittitle>
+                </did>
+            </c>
+            <c id="c_83bf55ff96f505f233bf0b27bbac3785" level="series">
+                <did>
+                    <unittitle>IX.  Lutheran Historical Conference  1970</unittitle>
+                </did>
+            </c>
+            <c id="c_69be87be449f3cec054df5969e3fc63c" level="series">
+                <did>
+                    <unittitle>X.  Synod of New York  1908-1929</unittitle>
+                </did>
+            </c>
+            <c id="c_bb6bd5c4a0ffd531625313b72c1fb271" level="series">
+                <did>
+                    <unittitle>XI.  Synod of New York and New England  1953-1962</unittitle>
+                </did>
+            </c>
+            <c id="c_8514fd88ad42496e3c2e6e7381971752" level="series">
+                <did>
+                    <unittitle>XII.  THE LUTHERAN 1966-1969, December 1949, April 1951, 			July 7, 1954</unittitle>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-noneoc">noneoc_0010</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>CHARLOTTE TURNPIKE</titleproper>
+                <author>Wallace, Shelley</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="1833/1835">1833 - 1835</date>
+                <address>
+                    <addressline>Hartwick College</addressline>
+                    <addressline>Oneonta, New York 13820</addressline>
+                </address>
+                <publisher>Hartwick College</publisher>
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>CHARLOTTE TURNPIKE</unittitle>
+            <unitdate normal="1833/1835">1833 - 1835</unitdate>
+            <physdesc>
+                <extent>.5 cubic ft.</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+        </did>
+        <acqinfo>
+            <p>This contract and survey map were donated to the College by James Catella in November 1999.  The provenance of these documents is unclear.</p>
+        </acqinfo>
+        <bioghist>
+            <p>Isaac Burr, the original surveyor for the Charlotte Turnpike, completed his survey in September of 1833.  A change in the road location to accommodate a bridge over the Susquehanna River was made in January of 1834 by surveyor Ammons.  The Charlotte River Turnpike Company, a stock company organized to encourage economic development and population growth, sold shares to the public for $20.00. Between 1834 and 1870, the money collected at the toll stations along the route maintained the pike and yielded dividends to the stockholders.  The pike followed an old Indian trail from early settlements at Schoharie and Harpersville to those on the Susquehanna River, and was used to drive cattle, sheep, and hogs to market.*
+Copies of two maps are located in the archives tickler file.
+
+
+*From: "Looking Back: A Glimpse of People and Events in Davenport and East Meredith,"  (Davenport Historical Society, Davenport Center, 1994); and "Echoes of the Past in Delaware County," (Compiled by Local History Group of Walton Adult Education School, 1947-48)
+</p>
+        </bioghist>
+    </archdesc>
+</ead>
